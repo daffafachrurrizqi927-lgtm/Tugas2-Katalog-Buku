@@ -23,7 +23,7 @@ Proyek ini adalah aplikasi berbasis web *Create, Read, Update, Delete* (CRUD) un
 6. Lakukan proses *Import* file `db_perpustakaan.sql` yang terdapat di dalam folder proyek ini.
 7. Buka aplikasi melalui browser dengan mengakses `http://localhost/nama_folder_proyek/`.
 
-## 🔐 Kredensial Login
+## Kredensial Login
 Untuk masuk ke dalam sistem, gunakan akun administrator bawaan berikut:
 - **Username:** `admin`
 - **Password:** `admin123`
